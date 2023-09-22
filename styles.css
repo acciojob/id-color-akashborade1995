@@ -3,15 +3,16 @@
 	background-color:yellow;
 	border-width:1px;
 /* 	border-style: 1px solid green; */
-	border-color:green;
+/* 	border-color:green; */
+	border:solid green;
 }
 #red{
 	background-color:red;
 	border-width:1px;
-	border-color:black;
+	border:solid black;
 }
 #green{
 	background-color:green;
 	border-width:1px;
-	border-color:yellow;
+	border:solid yellow;
 }
